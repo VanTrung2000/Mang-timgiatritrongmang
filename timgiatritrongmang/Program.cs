@@ -4,7 +4,7 @@ namespace timgiatritrongmang
 {
     class Program
     {
-        private static object input_name;
+       
 
         static void Main(string[] args)
         {
